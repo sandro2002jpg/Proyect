@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009893605676",
+    "project_id": "turnosapp-26007",
+    "storage_bucket": "turnosapp-26007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009893605676:android:d2381fdb249fa25727ac89",
+        "android_client_info": {
+          "package_name": "com.martinezsandro.actividad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbqHC__pti-RwXk_zH39iMNkPnENdVHsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
